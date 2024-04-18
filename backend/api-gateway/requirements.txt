@@ -1,0 +1,11 @@
+flask==3.0.0
+requests
+gunicorn
+google-cloud-pubsub
+pymongo[srv]
+python-dateutil
+google-cloud-storage
+graphene>=3.0
+python-dotenv
+firebase_admin
+flask-cors
